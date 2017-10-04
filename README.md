@@ -66,6 +66,7 @@ Your package.json must include scripts for:
     border-radius: $radius;
   }
   ```
+* **3pt:** - use [`enzyme`](http://airbnb.io/enzyme/) to test shallow rendering of at least three components
 
 #### Wireframe
 ![expense-tracker](expense-tracker.png)
