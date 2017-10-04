@@ -1,4 +1,4 @@
-![cf](https://i.imgur.com/7v5ASc8.png) 29: UI Styling
+![DV](https://www.deltavcodeschool.com/wp-content/uploads/DeltaV.png) 29: UI Styling
 ======
 
 ## Submission Instructions
@@ -24,6 +24,11 @@
 * `src/main.js`
 * `src/style`
   * *see feature tasks below for style directory requirements*
+
+Your package.json must include scripts for:
+
+* `lint`
+* `test`
 
 ## Requirements  
 #### Feature Tasks
@@ -61,3 +66,6 @@
     border-radius: $radius;
   }
   ```
+
+#### Wireframe
+![expense-tracker](expense-tracker.png)
